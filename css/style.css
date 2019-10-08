@@ -1,0 +1,15 @@
+*{
+  margin: none;
+  padding: none;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+  }
+
+
+
+
+.d-block{
+  height: 600px;
+  object-fit: cover;
+}
